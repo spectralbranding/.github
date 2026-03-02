@@ -4,7 +4,7 @@ There is no brand-in-itself. Only signals and observers.
 
 **Spectral Brand Theory (SBT)** is a computational framework that models brands as multi-dimensional signal sources perceived through observer-specific spectral profiles. Eight perceptual dimensions. Five coherence types. An AI-native analytical pipeline that compresses multi-week consulting into a single session.
 
-Validated across five brands (Hermes, IKEA, Patagonia, Tesla, Erewhon). Cross-model replicated (Claude + Gemini). Open source.
+Validated across five brands (Hermès, IKEA, Patagonia, Tesla, Erewhon). Cross-model replicated (Claude Opus 4.6 + Gemini 3.1 Pro). Open source.
 
 ### Repositories
 
