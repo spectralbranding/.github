@@ -23,7 +23,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | Repo | What it is |
 |:-----|:-----------|
 | [**orgschema-framework**](https://github.com/spectralbranding/orgschema-framework) | Python validator + JSON Schema for the 6-level TDD cascade specification format. |
-| [**orgschema-demo**](https://github.com/spectralbranding/orgschema-demo) | Spectra Coffee — a complete business specified as organizational schema. 26 YAML files, CI/CD pipeline. |
+| [**orgschema-demo**](https://github.com/spectralbranding/orgschema-demo) | Spectra Coffee — a complete business specified as organizational schema. 25 YAML files, CI/CD pipeline. |
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in 40 minutes. |
 | [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research paper — DSR methodology, SJIS submission. |
 
