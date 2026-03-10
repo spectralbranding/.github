@@ -2,7 +2,7 @@
 
 Businesses are simultaneously perception systems and specification systems. We publish open-source research frameworks for both sides.
 
-**Spectral Brand Theory** models how brands are perceived — eight perceptual dimensions, observer-specific spectral profiles, an AI-native analytical pipeline. **Organizational Schema Theory** models how businesses are specified — a reverse-design TDD methodology where customer experience goals are acceptance tests and each operational layer validates the layer above it.
+**Spectral Brand Theory** models how brands are perceived — eight perceptual dimensions, observer-specific spectral profiles, math-hardened validation, an AI-native analytical pipeline. **Organizational Schema Theory** models how businesses are specified — a reverse-design TDD methodology where customer experience goals are acceptance tests and each operational layer validates the layer above it.
 
 SBT is the view from outside. Orgschema is the view from inside. Neither alone is complete.
 
@@ -12,8 +12,8 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 
 | Repo | What it is |
 |:-----|:-----------|
-| [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 6-module AI-native prompt kit with YAML templates. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — formal framework specification and epistemological pipeline. |
+| [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 6-module AI-native prompt kit with YAML templates + 6 math validators. Run a spectral brand audit on any brand. |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, and 7 mathematical foundations papers (R0-R6). |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
 [spectralbranding.com](https://spectralbranding.com) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6318718) · [Substack](https://spectralbranding.substack.com)
@@ -25,6 +25,6 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | [**orgschema-framework**](https://github.com/spectralbranding/orgschema-framework) | Python validator + JSON Schema for the 6-level TDD cascade specification format. |
 | [**orgschema-demo**](https://github.com/spectralbranding/orgschema-demo) | Spectra Coffee — a complete business specified as organizational schema. 25 YAML files, CI/CD pipeline. |
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in 40 minutes. |
-| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research paper — DSR methodology, SJIS submission. |
+| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — DSR methodology, specification impossibility (R5). |
 
 [orgschema.com](https://orgschema.com) · [SSRN](https://papers.ssrn.com/abstract=6351918) · [Substack](https://orgschema.substack.com)
