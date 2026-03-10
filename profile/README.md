@@ -13,7 +13,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | Repo | What it is |
 |:-----|:-----------|
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 6-module AI-native prompt kit with YAML templates + 6 math validators. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, and 7 mathematical foundations papers (R0-R6). |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | 9 research papers — framework specification, epistemological pipeline, and 7 mathematical foundations (R0-R6). |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
 [spectralbranding.com](https://spectralbranding.com) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6318718) · [Substack](https://spectralbranding.substack.com)
