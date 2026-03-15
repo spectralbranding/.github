@@ -28,3 +28,11 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — DSR methodology, specification impossibility (R5). |
 
 [orgschema.com](https://orgschema.com) · [Zenodo](https://doi.org/10.5281/zenodo.18946043) · [Substack](https://orgschema.substack.com)
+
+### Applied: Activity Specification Protocol
+
+The same "specify before you collapse" principle applied to people. Traditional CVs are fixed low-dimensional projections. Activity Specifications preserve the full-dimensional action profile and re-project onto each context on demand.
+
+| Repo | What it is |
+|:-----|:-----------|
+| [**activity-spec**](https://github.com/spectralbranding/activity-spec) | YAML schema + LLM prompts for machine-readable professional profiles. 5 historical demos (Shannon, Fechner, Deming, Simon, Ohno). |
