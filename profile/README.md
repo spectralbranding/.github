@@ -16,7 +16,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | 10 research papers — framework specification, epistemological pipeline, and 8 mathematical foundations (R0-R7). |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
-[spectralbranding.com](https://spectralbranding.com) · [Zenodo](https://doi.org/10.5281/zenodo.18945912) · [Substack](https://spectralbranding.substack.com)
+[spectralbranding.com](https://spectralbranding.com) · [Zenodo](https://doi.org/10.5281/zenodo.18945912) · [Substack](https://spectralbranding.substack.com) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Zharnikov)
 
 ### Organizational Schema Theory
 
