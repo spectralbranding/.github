@@ -16,7 +16,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | 12 research papers — framework specification, epistemological pipeline, 8 mathematical foundations (R0-R7), and the Rendering Problem. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
-[spectralbranding.com](https://spectralbranding.com) · [Zenodo](https://doi.org/10.5281/zenodo.18945912) · [Substack](https://spectralbranding.substack.com) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Zharnikov)
+[spectralbranding.com](https://spectralbranding.com) · [Substack](https://spectralbranding.substack.com) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Zharnikov) · [Zenodo](https://zenodo.org/communities/spectral-branding/)
 
 ### Organizational Schema Theory
 
@@ -27,7 +27,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in 40 minutes. |
 | [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — DSR methodology, specification impossibility (R5). |
 
-[orgschema.com](https://orgschema.com) · [Zenodo](https://doi.org/10.5281/zenodo.18946043) · [Substack](https://orgschema.substack.com)
+[orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/spectral-branding/)
 
 ### Applied: Activity Specification Protocol
 
