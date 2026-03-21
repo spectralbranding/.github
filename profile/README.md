@@ -4,7 +4,7 @@ Businesses are simultaneously perception systems and specification systems. We p
 
 **Spectral Brand Theory** models how brands are perceived — eight perceptual dimensions, observer-specific spectral profiles, math-hardened validation, an AI-native analytical pipeline. **Organizational Schema Theory** models how businesses are specified — a reverse-design TDD methodology where customer experience goals are acceptance tests and each operational layer validates the layer above it.
 
-SBT is the view from outside. Orgschema is the view from inside. Neither alone is complete.
+Aaker drew the map. SBT built the microscope. Orgschema built the specification. Neither alone is complete.
 
 ---
 
@@ -13,7 +13,7 @@ SBT is the view from outside. Orgschema is the view from inside. Neither alone i
 | Repo | What it is |
 |:-----|:-----------|
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | 12 research papers — framework specification, epistemological pipeline, 8 mathematical foundations (R0-R7), and the Rendering Problem. |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R10), and companion papers. All working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
 [spectralbranding.com](https://spectralbranding.com) · [Substack](https://spectralbranding.substack.com) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Zharnikov) · [Zenodo](https://zenodo.org/communities/spectral-branding/)
