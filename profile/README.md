@@ -27,7 +27,7 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in 40 minutes. |
 | [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — DSR methodology, specification impossibility (R5). |
 
-[orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/spectral-branding/)
+[orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/orgschema)
 
 ### Applied
 
