@@ -29,11 +29,12 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 
 [orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/orgschema)
 
-### Applied
+### Applied Specifications
 
 The same specification principles applied beyond business frameworks.
 
 | Repo | What it is |
 |:-----|:-----------|
-| [**paper-spec**](https://github.com/spectralbranding/paper-spec) | Paper Spec v0.1.0 — machine-readable YAML standard for scientific claims. Validator + 20 examples. |
+| [**paper-spec**](https://github.com/spectralbranding/paper-spec) | Paper Spec v0.1.0 — machine-readable YAML standard for scientific claims. Schema, validator, 20 examples. What a paper claims. |
+| [**paper-repo**](https://github.com/spectralbranding/paper-repo) | Paper Repo v0.1.0 — Git-native protocol for scientific publishing. Fork-based submission, compliance gate, reviewer attribution, provenance chains. How a paper is managed. |
 | [**activity-spec**](https://github.com/spectralbranding/activity-spec) | YAML schema + LLM prompts for machine-readable professional profiles. 5 historical demos (Shannon, Fechner, Deming, Simon, Ohno). |
