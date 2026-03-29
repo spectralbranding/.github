@@ -13,7 +13,7 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 | Repo | What it is |
 |:-----|:-----------|
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R13), and companion papers. 20 working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R13), and companion papers. 20+ working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/), 15 under journal review. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
 [spectralbranding.com](https://spectralbranding.com) · [Substack](https://spectralbranding.substack.com) · [ResearchGate](https://www.researchgate.net/profile/Dmitry-Zharnikov) · [Zenodo](https://zenodo.org/communities/spectral-branding/)
@@ -35,6 +35,6 @@ The same specification principles applied beyond business frameworks.
 
 | Repo | What it is |
 |:-----|:-----------|
-| [**paper-spec**](https://github.com/spectralbranding/paper-spec) | Paper Spec v0.1.0 — machine-readable YAML standard for scientific claims. Schema, validator, 20 examples. What a paper claims. |
+| [**paper-spec**](https://github.com/spectralbranding/paper-spec) | Paper Spec v0.1.0 — machine-readable YAML standard for scientific claims. Schema, validator, 23 examples. What a paper claims. |
 | [**paper-repo**](https://github.com/spectralbranding/paper-repo) | Paper Repo v0.1.0 — Git-native protocol for scientific publishing. Fork-based submission, compliance gate, reviewer attribution, provenance chains. How a paper is managed. |
 | [**activity-spec**](https://github.com/spectralbranding/activity-spec) | YAML schema + LLM prompts for machine-readable professional profiles. 5 historical demos (Shannon, Fechner, Deming, Simon, Ohno). |
