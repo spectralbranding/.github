@@ -10,10 +10,10 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 
 ### Spectral Brand Theory
 
-| Repo | What it is |
-|:-----|:-----------|
+| Repo                                                         | What it is                                                   |
+| :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R20), and companion papers. 30+ working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R21), and companion papers. 30+ working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
 | [**brand-functions**](https://github.com/spectralbranding/brand-functions) | Brand Function Registry — machine-readable brand specifications (JSON) for 26 brands across 8 perceptual dimensions. The schema.org of brand identity. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
