@@ -13,7 +13,7 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 | Repo                                                         | What it is                                                   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
-| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R22), and companion papers. 30+ working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
+| [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework specification, epistemological pipeline, mathematical foundations (R0-R22), and companion papers. 35+ working papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). Includes the `canon-as-repository/` subfolder — version-controlled specification for creative IP with rendering forks. |
 | [**brand-functions**](https://github.com/spectralbranding/brand-functions) | Brand Function Registry — machine-readable brand specifications (JSON) for 26 brands across 8 perceptual dimensions. The schema.org of brand identity. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
 
@@ -26,7 +26,7 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 | [**orgschema-framework**](https://github.com/spectralbranding/orgschema-framework) | Python validator + JSON Schema for the 6-level TDD cascade specification format. |
 | [**orgschema-demo**](https://github.com/spectralbranding/orgschema-demo) | Spectra Coffee — a complete business specified as organizational schema. 25 YAML files, CI/CD pipeline. |
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in 40 minutes. |
-| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — DSR methodology, specification impossibility (R5). |
+| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — six-tier ontology, projection cascade, tier-rotation, tier-allocation, AI tier-penetration, rendering problem, specification impossibility (R5), DSR methodology, and companion papers. |
 
 [orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/orgschema)
 
@@ -39,4 +39,3 @@ The same specification principles applied beyond business frameworks.
 | [**paper-spec**](https://github.com/spectralbranding/paper-spec) | Paper Spec v0.1.0 — machine-readable YAML standard for scientific claims. Schema, validator, 23 examples. What a paper claims. |
 | [**paper-repo**](https://github.com/spectralbranding/paper-repo) | Paper Repo v0.1.0 — Git-native protocol for scientific publishing. Fork-based submission, compliance gate, reviewer attribution, provenance chains. How a paper is managed. |
 | [**activity-spec**](https://github.com/spectralbranding/activity-spec) | YAML schema + LLM prompts for machine-readable professional profiles. 5 historical demos (Shannon, Fechner, Deming, Simon, Ohno). |
-| [**canon-repo**](https://github.com/spectralbranding/canon-repo) | Canon Repo v0.1.0 — version-controlled specification for creative IP. Romeo and Juliet demo: spec on main, rendering forks for Luhrmann, West Side Story, Globe Theatre. |
