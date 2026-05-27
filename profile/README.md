@@ -30,6 +30,14 @@ Aaker drew the map. SBT built the microscope. Orgschema built the specification.
 
 [orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/orgschema)
 
+### Meaningfulness & Meaning
+
+Meta-corpus programme on the structure of knowledge work in the post-AI era. Applies across both SBT and OST: the substrate-rendering distinction operationalized for any propositional artifact (paper, memo, brand spec, decision log).
+
+| Repo | What it is |
+|:-----|:-----------|
+| [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | Research papers — Spec-Based Research in the Post-AI Era (Paper A, theory) + Same Meaning, Different Prose (Paper B, empirical companion). Operator role + three-layer log → spine → rendering decomposition + P1-P4 propositions + Heisenberg-Schrödinger existence proof. Published on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
+
 ### Applied Specifications
 
 The same specification principles applied beyond business frameworks.
