@@ -36,7 +36,7 @@ Meta-corpus programme on the structure of knowledge work in the post-AI era. App
 
 | Repo | What it is |
 |:-----|:-----------|
-| [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | Research papers — Spec-Based Research in the Post-AI Era (Paper A, theory) + Same Meaning, Different Prose (Paper B, empirical companion). Operator role + three-layer log → spine → rendering decomposition + P1-P4 propositions + Heisenberg-Schrödinger existence proof. Published on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
+| [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | Research papers — [Spec-Based Research in the Post-AI Era](https://doi.org/10.5281/zenodo.20409683) (Paper A, theory: Operator role + three-layer log → spine → rendering decomposition + P1–P4 propositions) + [Same Meaning, Different Prose](https://doi.org/10.5281/zenodo.20409701) (Paper B, empirical: Rec = 4 on twin pairs above null). Open-license under CC BY 4.0 on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
 
 ### Applied Specifications
 
