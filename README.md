@@ -1,6 +1,6 @@
 [![MIT License](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 [![CC-BY 4.0](https://img.shields.io/badge/Data-CC--BY_4.0-lightgrey.svg)](LICENSE-data)
-![Last Updated](https://img.shields.io/badge/updated-2026--05--29-success)
+![Last Updated](https://img.shields.io/badge/updated-2026--06--09-success)
 
 # Spectral Branding — Organisation Profile Repository
 
@@ -85,9 +85,10 @@ Primary public mirrors under the `spectralbranding` organisation:
 - **meaningfulness-papers** — Meaningfulness paper corpus: <https://github.com/spectralbranding/meaningfulness-papers>
 - **sbt-framework** — Shared framework code and references: <https://github.com/spectralbranding/sbt-framework>
 - **sbt-website** — Public website source: <https://github.com/spectralbranding/sbt-website>
+- **negotiation-spec-experiment** — Standalone empirical note (specification vs style in LLM negotiation; value headroom as moderator): <https://github.com/spectralbranding/negotiation-spec-experiment>
 
 Per-paper-slug mirrors (28+) live under the same organisation; see the parent corpus mirrors above for the full index.
 
 ---
 
-*Last updated: 2026-05-29*
+*Last updated: 2026-06-09*
