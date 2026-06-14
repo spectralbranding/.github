@@ -84,7 +84,6 @@ Primary public mirrors under the `spectralbranding` organisation:
 - **orgschema-papers** — Organisational Schema Theory paper corpus: <https://github.com/spectralbranding/orgschema-papers>
 - **meaningfulness-papers** — Meaningfulness paper corpus: <https://github.com/spectralbranding/meaningfulness-papers>
 - **sbt-framework** — Shared framework code and references: <https://github.com/spectralbranding/sbt-framework>
-- **sbt-website** — Public website source: <https://github.com/spectralbranding/sbt-website>
 - **negotiation-spec-experiment** — Standalone empirical note (specification vs style in LLM negotiation; value headroom as moderator): <https://github.com/spectralbranding/negotiation-spec-experiment>
 
 Per-paper-slug mirrors (28+) live under the same organisation; see the parent corpus mirrors above for the full index.
