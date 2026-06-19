@@ -100,6 +100,7 @@ Meta-corpus on knowledge work in the post-AI era — the substrate↔rendering d
 5. **Dynamics** — `r6-diffusion-dynamics`, `r9-nonergodic-perception`, `r12-coherence-resilience`, `r18-spectral-dynamics`, `r22-spectral-gap-restoration`.
 6. **AI era** — `r15-ai-search-metamerism`, `r16-ai-native-brand-identity`, `r21-spectral-immunity`, `r19-rate-distortion`.
 7. **Measure it** — `prism-instrument` (2026as), and the applied cases `r10-dove-case-study`, `r17-brand-triangulation`.
+8. **When the score suffices** — `brand-correspondence-principle` (2026au): the regime where an aggregate brand score is sufficient for a decision, and the measurable cost when it is not.
 
 **Understand OST (how businesses are specified):**
 1. **Six tiers** — `six-tier-ontology` (2026ag) + the OST main paper.
