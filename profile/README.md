@@ -19,7 +19,7 @@ Pick the row that fits you. Each path names the exact repo/paper to open first.
 | You are… | You want to… | Start here |
 | :------- | :----------- | :--------- |
 | **Researcher / student** | Understand the *theory* and build on it | SBT: [`sbt-papers/spectral-brand-theory`](https://github.com/spectralbranding/sbt-papers/tree/main/spectral-brand-theory) · OST: [`orgschema-papers/six-tier-ontology`](https://github.com/spectralbranding/orgschema-papers/tree/main/six-tier-ontology). Full reading paths ↓ |
-| **CMO / brand lead** | Diagnose a brand, find perception gaps | [`sbt-framework`](https://github.com/spectralbranding/sbt-framework) (run a spectral audit) + the 8-dimension model ↓ |
+| **CMO / brand lead** | Diagnose a brand, find perception gaps | The live [**Brand Spectrometer**](https://meter.spectralbranding.com) (see your brand's shape in minutes) + [`sbt-framework`](https://github.com/spectralbranding/sbt-framework) (run a spectral audit) + the 8-dimension model ↓ |
 | **CMO / brand lead** | Decide *how to act*: is one brand score enough, and how do you reach a cohort with no address? | [`brand-correspondence-principle`](https://github.com/spectralbranding/sbt-papers/tree/main/brand-correspondence-principle) (2026au — when a single score suffices, and the cost when it doesn't) → [`reaching-a-perception`](https://github.com/spectralbranding/sbt-papers/tree/main/reaching-a-perception) (2026av — three bridges to reach a perceptual cohort; only one needs an address) |
 | **CEO / COO** | Specify or stress-test an operating model | [`orgschema-toolkit`](https://github.com/spectralbranding/orgschema-toolkit) (specify a business in ~40 min) + [`orgschema-demo`](https://github.com/spectralbranding/orgschema-demo) |
 | **CFO / strategy** | Decide where to invest, evaluate an M&A or new project | Tier-allocation & tier-rotation papers ↓ ("Evaluate a business case") |
@@ -55,6 +55,7 @@ Per-term definitions and their formal relations live in each paper's `ONTOLOGY.y
 | Repo | What it is |
 | :--- | :--------- |
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
+| [**brand-spectrometer**](https://github.com/spectralbranding/brand-spectrometer) | The open in-browser instrument — reads cohort-resolved, 8-dimension brand perception from any atlas and flags which differences between audiences clear the noise floor. Live at [meter.spectralbranding.com](https://meter.spectralbranding.com). |
 | [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework spec, epistemological pipeline, mathematical foundations (R0–R22), AI-era studies, and the measurement instrument. 30+ papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
 | [**brand-functions**](https://github.com/spectralbranding/brand-functions) | Brand Function Registry — machine-readable brand specs (JSON) for 26 brands across the 8 dimensions. The schema.org of brand identity. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
