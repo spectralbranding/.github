@@ -28,6 +28,18 @@ Pick the row that fits you. Each path names the exact repo/paper to open first.
 
 ---
 
+## Use the corpus with your own AI (the unbundled think-tank)
+
+A think-tank bundles two things: the people who **think**, and the knowledge they think with — the **tank**. This corpus *unbundles* them. The published frameworks are the tank — a calibrated, versioned body of knowledge, method, and runnable instruments. You bring the think — your own AI — and your **data stays with you**.
+
+- **The lens** (ours, open) — the papers, each repo's `paper.yaml`/`ONTOLOGY.yaml` substrate, and the instruments (the [Brand Spectrometer](https://meter.spectralbranding.com), the [OrgSchema validator](https://github.com/spectralbranding/orgschema-framework)).
+- **The intellect** (yours) — any AI, local or cloud, pointed at the lens.
+- **Your case** (yours, private) — your question and your data; never uploaded here.
+
+Point your agent at the relevant reading path (or a repo's `AGENTS.md`), give it your case, and it reasons *through the lens* — and, like the instruments, **tells you what it cannot resolve** instead of inventing an answer. It **diagnoses and analyzes**; you decide and act. Measurement, not management.
+
+---
+
 ## The core ideas (concept map)
 
 **Spectral Brand Theory.** A brand emits signals across **eight independent perceptual dimensions** — *Semiotic, Narrative, Ideological, Experiential, Social, Economic, Cultural, Temporal*. Each observer filters those signals through a personal **spectral profile** (a weight vector) and constructs a **perception cloud** — a probability distribution over possible convictions, *not* a single "brand image." Observers group into **cohorts** (perceptual, not demographic). Two different emission profiles can produce the same perception for a cohort — **metamerism**. Measurement, not management: SBT measures the perception you do **not** control.
