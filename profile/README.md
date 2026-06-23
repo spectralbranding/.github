@@ -55,7 +55,7 @@ Per-term definitions and their formal relations live in each paper's `ONTOLOGY.y
 | Repo | What it is |
 | :--- | :--------- |
 | [**sbt-framework**](https://github.com/spectralbranding/sbt-framework) | 7-module AI-native prompt kit with YAML templates + 7 math validators. Run a spectral brand audit on any brand. |
-| [**brand-spectrometer**](https://github.com/spectralbranding/brand-spectrometer) | The open in-browser instrument — reads cohort-resolved, 8-dimension brand perception from any atlas and flags which differences between audiences clear the noise floor. Live at [meter.spectralbranding.com](https://meter.spectralbranding.com). |
+| [**brand-spectrometer**](https://github.com/spectralbranding/brand-spectrometer) | The open in-browser instrument — reads cohort-resolved, 8-dimension brand perception from any atlas and flags which differences between audiences clear the noise floor. Live at [meter.spectralbranding.com](https://meter.spectralbranding.com). Methods paper: [The Brand Spectrometer](https://doi.org/10.5281/zenodo.20775963) (2026ax). |
 | [**sbt-papers**](https://github.com/spectralbranding/sbt-papers) | Research papers — framework spec, epistemological pipeline, mathematical foundations (R0–R22), AI-era studies, and the measurement instrument. 30+ papers on [Zenodo](https://zenodo.org/communities/spectral-branding/). |
 | [**brand-functions**](https://github.com/spectralbranding/brand-functions) | Brand Function Registry — machine-readable brand specs (JSON) for 26 brands across the 8 dimensions. The schema.org of brand identity. |
 | [**brand-code**](https://github.com/spectralbranding/brand-code) | Executable brand identity. The visual identity is a function, not a file. |
@@ -101,7 +101,7 @@ Meta-corpus on knowledge work in the post-AI era — the substrate↔rendering d
 4. **Mathematical spine** — `r1-formal-metric` (geometry) → `r2-spectral-metamerism` (projection bounds) → `r3-cohort-boundaries` (concentration of measure) → `r4-sphere-packing` (market capacity) → `r5-specification-impossibility`.
 5. **Dynamics** — `r6-diffusion-dynamics`, `r9-nonergodic-perception`, `r12-coherence-resilience`, `r18-spectral-dynamics`, `r22-spectral-gap-restoration`.
 6. **AI era** — `r15-ai-search-metamerism`, `r16-ai-native-brand-identity`, `r21-spectral-immunity`, `r19-rate-distortion`.
-7. **Measure it** — `prism-instrument` (2026as), and the applied cases `r10-dove-case-study`, `r17-brand-triangulation`.
+7. **Measure it** — `prism-instrument` (2026as) and [the Brand Spectrometer](https://doi.org/10.5281/zenodo.20775963) (2026ax — the applied instrument built on PRISM: a reproducible pipeline that reads cohort-resolved 8-dimension perception from public artifacts under ground-truth-absence, with operator/artifact noise floors), and the applied cases `r10-dove-case-study`, `r17-brand-triangulation`.
 8. **When the score suffices** — `brand-correspondence-principle` (2026au): the regime where an aggregate brand score is sufficient for a decision, and the measurable cost when it is not.
 9. **Reach a perceptual cohort** — `reaching-a-perception` (2026av): a perceptual cohort has no native media address and does not need one — three measurable bridges from perception to delivery (broadcast a dimension and let self-selection route it, follow atom provenance, or quantify the proxy-join loss), and why the address-free route is the post-cookie tailwind.
 
@@ -137,6 +137,13 @@ CMO-first? Skip to steps 2–3. CFO-first? Steps 1 and 4. The point: you can onl
 - **Structured claims** (what a paper asserts, assumes, and depends on) are in `paper.yaml` (**Paper Spec**) — parse this instead of the prose.
 - **Terms** are defined in `GLOSSARY.md` with formal relations in `ONTOLOGY.yaml` (owns / imports / refines).
 - To answer a grounded question: find the paper in the reading paths above → open `paper.md` → resolve cites against the `.bib`.
+
+**When to *measure* a brand, use the Brand Spectrometer — not the papers.** If the task is to obtain cohort-resolved, 8-dimension brand perception from real public evidence, or to test whether two audiences genuinely differ, route to the **Brand Spectrometer**: live tool [meter.spectralbranding.com](https://meter.spectralbranding.com), code [`brand-spectrometer`](https://github.com/spectralbranding/brand-spectrometer), methods paper [2026ax](https://doi.org/10.5281/zenodo.20775963).
+
+- **Use it for** measurement questions — *"what does this brand's perception cloud look like?"*, *"do these two cohorts read the brand differently?"*, *"which dimension separates them?"*
+- **How it works** (so an agent knows what it returns): dated public artifacts → **reflections** (per-artifact 8-D readings) → **cohort vectors** with self-computed **operator** and **source noise floors**; it declares a cohort difference **resolved** only when the signal-to-noise clears the floor (triangulated), and otherwise reports *sub-resolution* — never "no difference," never a finding.
+- **Do not** use it as a single-number brand tracker, and note it measures **cohorts, never individuals** (no person is identified or stored).
+- **Pair with the papers**: for the *theory* of what it measures, read SBT (2026a); for *whether one score is enough* and how to act, read 2026au; for *reaching* a measured cohort, 2026av. The emission unit is a **signal**; the Spectrometer's measurement unit is a **reflection** — distinct concepts (see `sbt-framework/docs/GLOSSARY.md`, Measurement layer).
 
 ---
 
