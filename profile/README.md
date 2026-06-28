@@ -8,7 +8,7 @@ Businesses are simultaneously **perception systems** and **specification systems
 
 > Aaker drew the map. SBT built the microscope. OrgSchema built the specification. Neither alone is complete.
 
-Everything is open: ~40 working papers on Zenodo (CC BY 4.0), machine-readable sources on GitHub, runnable toolkits.
+Everything is open: 50+ working papers on Zenodo (CC BY 4.0), machine-readable sources on GitHub, runnable toolkits.
 
 ---
 
