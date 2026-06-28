@@ -14,17 +14,21 @@ Everything is open: ~40 working papers on Zenodo (CC BY 4.0), machine-readable s
 
 ## Start here — find your path
 
-Pick the row that fits you. Each path names the exact repo/paper to open first.
+The fastest route is the **[Guide](https://spectralbranding.com/guide)**. Pick your role —
+CMO, COO, CFO, researcher, AI agent, press — and it routes you to the seed papers, the
+decisions you can act on, the runnable instruments, and exactly how to widen from there.
+It is a *generated projection* of this corpus (not a hand-kept list), so it never drifts
+from the papers.
 
-| You are… | You want to… | Start here |
-| :------- | :----------- | :--------- |
-| **Researcher / student** | Understand the *theory* and build on it | SBT: [`sbt-papers/spectral-brand-theory`](https://github.com/spectralbranding/sbt-papers/tree/main/spectral-brand-theory) · OST: [`orgschema-papers/six-tier-ontology`](https://github.com/spectralbranding/orgschema-papers/tree/main/six-tier-ontology). Full reading paths ↓ |
-| **CMO / brand lead** | Diagnose a brand, find perception gaps | The live [**Brand Spectrometer**](https://meter.spectralbranding.com) (see your brand's shape in minutes) + [`sbt-framework`](https://github.com/spectralbranding/sbt-framework) (run a spectral audit) + the 8-dimension model ↓ |
-| **CMO / brand lead** | Decide *how to act*: is one brand score enough, and how do you reach a cohort with no address? | [`brand-correspondence-principle`](https://github.com/spectralbranding/sbt-papers/tree/main/brand-correspondence-principle) (2026au — when a single score suffices, and the cost when it doesn't) → [`reaching-a-perception`](https://github.com/spectralbranding/sbt-papers/tree/main/reaching-a-perception) (2026av — three bridges to reach a perceptual cohort; only one needs an address) |
-| **CEO / COO** | Specify or stress-test an operating model | [`orgschema-toolkit`](https://github.com/spectralbranding/orgschema-toolkit) (specify a business in ~40 min) + [`orgschema-demo`](https://github.com/spectralbranding/orgschema-demo) |
-| **CFO / strategy** | Decide where to invest, evaluate an M&A or new project | Tier-allocation & tier-rotation papers ↓ ("Evaluate a business case") |
-| **AI agent** | Consume the corpus correctly | Every repo's `AGENTS.md` + the citation/metadata model ↓ |
-| **Curious / press** | Get the idea in one sentence | *A brand, like colour, does not exist in the object — it is completed in the observer.* → [spectralbranding.com](https://spectralbranding.com) |
+Two shortcuts that skip straight to a tool:
+
+- **Measure a brand** → the live [**Brand Spectrometer**](https://meter.spectralbranding.com) — your brand's shape in minutes.
+- **Specify a business** → the [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) — a complete business in ~40 minutes.
+
+Your own AI can consume the same map directly:
+**[corpus-guide](https://github.com/spectralbranding/corpus-guide)** holds the machine-readable
+`corpus-map.json` (papers ↔ terms ↔ claims) and `guide-routing.json` (role accelerators) for
+seed → scope traversal.
 
 ---
 
@@ -144,11 +148,12 @@ CMO-first? Skip to steps 2–3. CFO-first? Steps 1 and 4. The point: you can onl
 
 ## For AI agents
 
+- **Start from the machine map: [corpus-guide](https://github.com/spectralbranding/corpus-guide)** — `corpus-map.json` (papers ↔ terms ↔ claims) and `guide-routing.json` (role accelerators). Route a task by role, then widen from its seed papers via shared terms and citation edges (**seed → scope**); ground the answer in the widened set and state what you cannot resolve. The machine view of the Guide is at [spectralbranding.com/guide.json](https://spectralbranding.com/guide.json).
 - **Every paper folder has an `AGENTS.md`** — a file-by-file guide. Read it first.
 - **Citations are `[@citation_key]` keys**, resolved against the bundled `<key>.bib`. A `[@key]` is never a typo — it renders to "(Author Year)". See each folder's `CITATIONS.md`.
 - **Structured claims** (what a paper asserts, assumes, and depends on) are in `paper.yaml` (**Paper Spec**) — parse this instead of the prose.
 - **Terms** are defined in `GLOSSARY.md` with formal relations in `ONTOLOGY.yaml` (owns / imports / refines).
-- To answer a grounded question: find the paper in the reading paths above → open `paper.md` → resolve cites against the `.bib`.
+- To answer a grounded question: route via the Guide → open the seed `paper.md` → resolve cites against the `.bib` → widen via `corpus-map.json`.
 
 **When to *measure* a brand, use the Brand Spectrometer — not the papers.** If the task is to obtain cohort-resolved, 8-dimension brand perception from real public evidence, or to test whether two audiences genuinely differ, route to the **Brand Spectrometer**: live tool [meter.spectralbranding.com](https://meter.spectralbranding.com), code [`brand-spectrometer`](https://github.com/spectralbranding/brand-spectrometer), methods paper [2026ax](https://doi.org/10.5281/zenodo.20775963).
 
