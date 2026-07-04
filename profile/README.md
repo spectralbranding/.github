@@ -57,7 +57,7 @@ Point your agent at the relevant reading path (or a repo's `AGENTS.md`), give it
   biology    genome                     organism                     phenotype
   business   org-schema (OST)           operations                   culture
   brand      guidelines                 emitted signals              perception cloud (SBT)
-  research   substrate / spine          prose                        meaningfulness
+  research   substrate / spine          meaning                      meaningfulness
 ```
 
 Per-term definitions and their formal relations live in each paper's `ONTOLOGY.yaml` + `GLOSSARY.md`.
