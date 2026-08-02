@@ -95,7 +95,7 @@ Meta-corpus on knowledge work in the post-AI era — the substrate↔rendering d
 
 | Repo | What it is |
 | :--- | :--------- |
-| [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | [Spec-Based Research in the Post-AI Era](https://doi.org/10.5281/zenodo.20409683) (theory) + [Same Meaning, Different Prose](https://doi.org/10.5281/zenodo.20409701) (empirical). |
+| [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | [Spec-Based Research in the Post-AI Era](https://doi.org/10.5281/zenodo.20409683) (theory) + [Same Meaning, Different Prose](https://doi.org/10.5281/zenodo.20409701) (empirical) + [Invention as a Structural Operation](https://doi.org/10.5281/zenodo.21653102) (abduction as structural re-coordinatization). |
 
 ### Applied specifications
 
