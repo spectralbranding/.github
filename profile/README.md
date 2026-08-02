@@ -85,7 +85,7 @@ Per-term definitions and their formal relations live in each paper's `ONTOLOGY.y
 | [**orgschema-framework**](https://github.com/spectralbranding/orgschema-framework) | Python validator + JSON Schema for the 6-level TDD cascade format. |
 | [**orgschema-demo**](https://github.com/spectralbranding/orgschema-demo) | Spectra Coffee — a complete business specified as organizational schema. 25 YAML files + CI/CD. |
 | [**orgschema-toolkit**](https://github.com/spectralbranding/orgschema-toolkit) | 8-module AI prompt pipeline. Specify a complete business in ~40 minutes. |
-| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — six-tier ontology, projection cascade, tier-rotation, tier-allocation, verification-as-operator, specification-readiness, the rendering problem, and the OST audit. |
+| [**orgschema-papers**](https://github.com/spectralbranding/orgschema-papers) | Research papers — six-tier ontology, projection cascade, tier-rotation, tier-allocation, verification-as-operator, specification-readiness, the rendering problem, the OST audit, and tier-bundle algebra for acquisition integration (with its large-N empirical test and multi-LLM coding instrument). |
 
 [orgschema.com](https://orgschema.com) · [Substack](https://orgschema.substack.com) · [Zenodo](https://zenodo.org/communities/orgschema)
 
