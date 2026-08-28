@@ -62,6 +62,30 @@ Point your agent at the relevant reading path (or a repo's `AGENTS.md`), give it
 
 Per-term definitions and their formal relations live in each paper's `ONTOLOGY.yaml` + `GLOSSARY.md`.
 
+## What this work covers — and what it does not
+
+Every claim here is a claim about one stage of one chain. Most disappointment with research like this comes from a claim being read as covering more than it does, so the boundaries are stated up front rather than discovered later.
+
+**On the brand side, the chain runs** budget → media units → impressions → attention → **perception** → memory → behaviour → revenue.
+
+- **Owned:** perception, and its valence sub-layer. This is the only stage with executed, pre-registered, publicly logged measurement behind it.
+- **Touched:** budget (as an allocation across perceptual dimensions, not across media channels) and behaviour (stated and revealed choice of **model** cohorts — there is no human behavioural data anywhere in this corpus).
+- **Not covered:** media buying, delivery and impressions, **attention**, **memory**, and revenue. Attention is ceded deliberately to external models, not overlooked.
+- **Of the seven links in that chain, this corpus owns none as specified.** What it owns instead is a substitute route — emitted signal → perception, formal with calibrated demonstrations, never a field measurement — and executed evidence on a collapsed link, perception → behaviour, that the classic chain does not contain.
+
+**The single most useful caveat:** the advertising chain is a *transmission* ladder — how a signal travels to a person. This corpus's own ladder is a *construction* ladder — what a decision-maker builds on top of a reading. **They intersect at exactly one node, perception, and nowhere else.** Laying these results over an advertising chain therefore implies coverage of two stages and three links that are entirely empty. That is the largest over-claim risk in the whole programme, and it is a presentation risk rather than an error in any paper.
+
+**On the organizational side there are three chains, not one,** because an organization, a transaction and a research artifact are different objects and a chain is a property of an object rather than of a theory: the specification cascade inside one firm, what crosses an ownership boundary, and how a knowledge artifact is authored and verified.
+
+- **Owned:** the specification cascade and its levels; the six-layer decomposition of an acquisition target; the algebra of what a transaction transfers; verification and audit, which is the strongest region of all; and the machinery for specifying and checking research artifacts.
+- **Ceded by decision:** execution. It is not a layer in the stack but the *rendering* of the process layer by the people and systems that carry it out — a position, not a gap.
+- **Not covered:** post-deal value realisation, and the prediction of deal success generally.
+- **Across all three of those chains there is exactly one link with field evidence behind it**, and it is a bounded necessary-condition result about avoiding one specific integration-failure mode — a pre-close negative screen, never a predictor of a good deal.
+
+**The uncomfortable one, stated because a reader is entitled to it: there is no executed study here in which specification quality is the independent variable and firm performance is the dependent variable.** The archival design for that question is complete and pre-registered; it has not been run. The nearest clean causal result on specification-beats-style has software agents as its subject, not companies. Anyone citing this work as evidence that a better-specified organization performs better is ahead of the evidence, and that includes us.
+
+**Where to go instead.** For delivery, reach and frequency, the media-planning tradition. For attention, the attention-measurement vendors and the published models this corpus explicitly differentiates from rather than competes with. For recall and mental availability, the memory and salience literature. For attribution and incrementality, the experimental and econometric marketing-measurement literature. A map that only says no is not useful; these are real questions with real answers elsewhere.
+
 ---
 
 ## The repositories
