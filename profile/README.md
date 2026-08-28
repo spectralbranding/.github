@@ -97,6 +97,14 @@ Meta-corpus on knowledge work in the post-AI era — the substrate↔rendering d
 | :--- | :--------- |
 | [**meaningfulness-papers**](https://github.com/spectralbranding/meaningfulness-papers) | [Spec-Based Research in the Post-AI Era](https://doi.org/10.5281/zenodo.20409683) (theory) + [Same Meaning, Different Prose](https://doi.org/10.5281/zenodo.20409701) (empirical) + [Invention as a Structural Operation](https://doi.org/10.5281/zenodo.21653102) (abduction as structural re-coordinatization). |
 
+### Philosophy of Science
+
+When a claim about *where a system ends* has empirical content — and what a domain must supply for such a claim to be testable at all. Uses organizations as instruments rather than as subjects.
+
+| Repo | What it is |
+| :--- | :--------- |
+| [**philosophy-papers**](https://github.com/spectralbranding/philosophy-papers) | [When a Boundary Claim Becomes Testable](https://doi.org/10.5281/zenodo.22148374) (2026bo) — a three-condition criterion for adjudicating scale-relative boundary claims, with one dual-coded acquisition as an existence proof. [Data](https://doi.org/10.57967/hf/10145). |
+
 ### Applied specifications
 
 | Repo | What it is |
