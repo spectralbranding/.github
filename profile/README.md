@@ -159,7 +159,7 @@ When a claim about *where a system ends* has empirical content — and what a do
 
 **Understand OST (how businesses are specified):**
 1. **Six tiers** — `six-tier-ontology` (2026ag) + the OST main paper.
-2. **The rendering problem** — the cross-domain bridge (biology / org / brand).
+2. **The rendering problem** — the cross-domain bridge (biology / org / brand); `rendering-problem` (2026l), published in *Systems Research and Behavioral Science* ([10.1002/sres.70172](https://doi.org/10.1002/sres.70172)).
 3. **Mechanics** — `verification-as-operator` (2026ae), `projection-paper` (2026m), `org-as-metadata` (2026af, organizational metamerism).
 4. **Where to invest** — `tier-allocation` (2026aj), `tier-rotation` (2026ai), `brand-as-modular-layer` (2026ah), `capability-as-projection` (2026al).
 5. **Readiness** — `specification-readiness` (2026am) + its empirical companion (2026an); diagnose with `orgschema-audit` (2026ar).
